@@ -1,0 +1,8 @@
+pandas
+pandas_datareader
+numpy
+yfinance
+datetime
+matplotlib
+seaborn
+scipy
